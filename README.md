@@ -11,7 +11,7 @@ The Library Database Applicaton was created using: Sqlite to create, update, sto
     ● Volunteer for the library
     ● Ask for help from a librarian
 
-## 1. What data is going to be stored?
+## 1. What data is stored?
   ### a. Library Catalogue
     i. Physical collections
     ii. Course reserves
