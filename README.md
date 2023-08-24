@@ -29,24 +29,24 @@ Library Database created using sqlite and python
       1. Check out due dates
       2. Pick-up locations
 ## c. Library Services
-  i. Hours of operation
-  ii. Events
+    i. Hours of operation
+    ii. Events
       1. Target audiences
       2. Locations
       3. Price
-  iii. Room bookings
-  iv. Printing
-  v. Loans policies
-  vi. Other resources
-  vii. Digitized collections
+    iii. Room bookings
+    iv. Printing
+    v. Loans policies
+    vi. Other resources
+    vii. Digitized collections
 ### d. Library Personnel
-  i. Employee info: id, address, salary, position,...
+    i. Employee info: id, address, salary, position,...
 ### e. Acquisitions list
 
 ## 3. Who should access the data?
-  a. Library personnel: almost everything
-  b. Customers
-    i. With accounts: personal account information, library catalogue,
+    a. Library personnel: almost everything
+    b. Customers
+      i. With accounts: personal account information, library catalogue,
         services.
     ii. Without accounts: library catalogue, services.
 
