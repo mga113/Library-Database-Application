@@ -2,14 +2,14 @@
 Library Database created using sqlite and python
 
 ## This application allows users to: 
-● Find an item in the library
-● Borrow an item from the library
-● Return a borrowed item
-● Donate an item to the library
-● Find an event in the library
-● Register for an event in the library
-● Volunteer for the library
-● Ask for help from a librarian
+    ● Find an item in the library
+    ● Borrow an item from the library
+    ● Return a borrowed item
+    ● Donate an item to the library
+    ● Find an event in the library
+    ● Register for an event in the library
+    ● Volunteer for the library
+    ● Ask for help from a librarian
 
 ## 1. What data is going to be stored?
   ### a. Library Catalogue
