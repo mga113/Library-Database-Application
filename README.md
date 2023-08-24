@@ -1,5 +1,5 @@
 # Library-Database-Application
-Library Database created using sqlite and python
+The Library Database Applicaton was created using: Sqlite to create, update, store, and delete infomation and Python for the user interface. 
 
 ## This application allows users to: 
     ● Find an item in the library
